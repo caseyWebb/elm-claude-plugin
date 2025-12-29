@@ -1,11 +1,24 @@
 {
-  "name": "caseyWebb",
-  "description": "Casey Webb's Claude Code plugins",
-  "repository": "https://github.com/caseyWebb/elm-claude-plugin",
+  "name": "casey-webb-plugins",
+  "owner": {
+    "name": "Casey Webb",
+    "email": "casey@dirtbag.social"
+  },
+  "metadata": {
+    "description": "Casey Webb's Claude Code plugins",
+    "version": "1.0.0"
+  },
   "plugins": [
     {
       "name": "elm",
-      "path": "."
+      "description": "Tools for working with Elm",
+      "version": "1.0.0",
+      "author": {
+        "name": "Casey Webb"
+      },
+      "source": ".",
+      "category": "developer-tools",
+      "tags": ["elm", "elm-lang"]
     }
   ]
 }
