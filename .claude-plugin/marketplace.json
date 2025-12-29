@@ -16,7 +16,7 @@
       "author": {
         "name": "Casey Webb"
       },
-      "source": ".",
+      "source": "./",
       "category": "developer-tools",
       "tags": ["elm", "elm-lang"]
     }
