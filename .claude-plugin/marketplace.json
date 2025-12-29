@@ -1,0 +1,11 @@
+{
+  "name": "caseyWebb",
+  "description": "Casey Webb's Claude Code plugins",
+  "repository": "https://github.com/caseyWebb/elm-claude-plugin",
+  "plugins": [
+    {
+      "name": "elm",
+      "path": "."
+    }
+  ]
+}
