@@ -10,6 +10,7 @@ A Claude Code plugin that provides tools for working with Elm.
 
 - `curl` - for fetching package data from package.elm-lang.org
 - `jq` - for parsing JSON (install via `brew install jq` on macOS)
+- `elm-language-server` - for LSP features (install via `npm install -g @elm-tooling/elm-language-server`)
 
 ## Installation
 
