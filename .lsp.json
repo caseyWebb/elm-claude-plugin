@@ -1,0 +1,9 @@
+{
+  "elm": {
+    "command": "elm-language-server",
+    "args": ["--stdio"],
+    "extensionToLanguage": {
+      ".elm": "elm"
+    }
+  }
+}
