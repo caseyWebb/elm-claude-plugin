@@ -1,13 +1,16 @@
 {
   "name": "elm",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Tools for working with Elm",
   "author": {
     "name": "Casey Webb"
   },
   "repository": "https://github.com/caseyWebb/elm-claude-plugin",
   "license": "MIT",
-  "keywords": ["elm", "elm-lang"],
+  "keywords": [
+    "elm",
+    "elm-lang"
+  ],
   "lspServers": {
     "elm": {
       "command": "elm-language-server",
